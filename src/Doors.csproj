@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\YogurtTheHorse.Messenger\YogurtTheHorse.Messenger.Telegram\YogurtTheHorse.Messenger.Telegram.csproj" />
+    <ProjectReference Include="..\YogurtTheHorse.Messenger\YogurtTheHorse.Messenger.Database.Mongo\YogurtTheHorse.Messenger.Database.Mongo.csproj" />
+    <ProjectReference Include="..\YogurtTheHorse.Messenger\YogurtTheHorse.Messenger.LayoutGenerator\YogurtTheHorse.Messenger.LayoutGenerator.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

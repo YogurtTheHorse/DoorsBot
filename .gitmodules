@@ -1,0 +1,3 @@
+[submodule "YogurtTheHorse.Messenger"]
+	path = YogurtTheHorse.Messenger
+	url = git@github.com:yegorf1/YogurtTheHorse.Messenger.git
